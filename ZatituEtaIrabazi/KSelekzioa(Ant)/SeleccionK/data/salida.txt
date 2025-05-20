@@ -1,0 +1,15 @@
+Vector 1 (único elemento): [10]
+Elemento 1-ésimo más grande: 10
+Vector 2 (12 elementos): [-9, 7, 5, 8, -6, 2, 3, -1, -4, 4, 5, -8]
+Elemento 1-ésimo más grande: -9
+Elemento 2-ésimo más grande: -8
+Elemento 3-ésimo más grande: -6
+Elemento 4-ésimo más grande: -4
+Elemento 5-ésimo más grande: -1
+Elemento 6-ésimo más grande: 2
+Elemento 7-ésimo más grande: 3
+Elemento 8-ésimo más grande: 4
+Elemento 9-ésimo más grande: 5
+Elemento 10-ésimo más grande: 5
+Elemento 11-ésimo más grande: 7
+Elemento 12-ésimo más grande: 8

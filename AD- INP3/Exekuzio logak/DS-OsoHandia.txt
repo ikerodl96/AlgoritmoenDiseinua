@@ -1,0 +1,19 @@
+OsoHandiak/zfrb30-15-1.cnf
+AdabegiKop: 5518422
+Erabilitako denbora: 2482830 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-2.cnf
+AdabegiKop: 17760302
+Erabilitako denbora: 6274084 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-3.cnf
+AdabegiKop: 2384256
+Erabilitako denbora: 1149723 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-4.cnf
+AdabegiKop: 3266516
+Erabilitako denbora: 1199786 milisegundo
+SAT?: true

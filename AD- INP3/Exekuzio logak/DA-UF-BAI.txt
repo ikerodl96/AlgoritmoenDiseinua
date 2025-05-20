@@ -1,0 +1,180 @@
+UF-BAI/uf100-01000.cnf
+AdabegiKop: 492
+Erabilitako denbora: 79 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf100-0997.cnf
+AdabegiKop: 9443
+Erabilitako denbora: 1022 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf100-0998.cnf
+AdabegiKop: 2815
+Erabilitako denbora: 295 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf100-0999.cnf
+AdabegiKop: 14028
+Erabilitako denbora: 1504 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf125-0100.cnf
+AdabegiKop: 56576
+Erabilitako denbora: 7134 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf125-097.cnf
+AdabegiKop: 2909
+Erabilitako denbora: 366 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf125-098.cnf
+AdabegiKop: 13784
+Erabilitako denbora: 1705 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf125-099.cnf
+AdabegiKop: 41975
+Erabilitako denbora: 5683 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf150-0100.cnf
+AdabegiKop: 128730
+Erabilitako denbora: 21328 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf150-097.cnf
+AdabegiKop: 44984
+Erabilitako denbora: 6501 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf150-098.cnf
+AdabegiKop: 52023
+Erabilitako denbora: 8485 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf150-099.cnf
+AdabegiKop: 72277
+Erabilitako denbora: 11706 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf175-0100.cnf
+AdabegiKop: 940884
+Erabilitako denbora: 184045 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf175-097.cnf
+AdabegiKop: 94084
+Erabilitako denbora: 18572 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf175-098.cnf
+AdabegiKop: 179608
+Erabilitako denbora: 39027 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf175-099.cnf
+AdabegiKop: 95046
+Erabilitako denbora: 16867 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf20-01000.cnf
+AdabegiKop: 30
+Erabilitako denbora: 3 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf20-0997.cnf
+AdabegiKop: 24
+Erabilitako denbora: 3 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf20-0998.cnf
+AdabegiKop: 11
+Erabilitako denbora: 2 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf20-0999.cnf
+AdabegiKop: 11
+Erabilitako denbora: 3 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf200-0100.cnf
+AdabegiKop: 3695278
+Erabilitako denbora: 930741 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf200-097.cnf
+AdabegiKop: 3367687
+Erabilitako denbora: 761188 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf200-098.cnf
+AdabegiKop: 5631858
+Erabilitako denbora: 1337553 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf200-099.cnf
+AdabegiKop: 4620436
+Erabilitako denbora: 1093538 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf225-0100.cnf
+AdabegiKop: 38955538
+Erabilitako denbora: 10561513 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf225-097.cnf
+AdabegiKop: 3288910
+Erabilitako denbora: 991272 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf225-098.cnf
+AdabegiKop: 4692256
+Erabilitako denbora: 1312868 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf225-099.cnf
+AdabegiKop: 143315
+Erabilitako denbora: 36864 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf50-01000.cnf
+AdabegiKop: 138
+Erabilitako denbora: 8 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf50-0997.cnf
+AdabegiKop: 185
+Erabilitako denbora: 10 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf50-0998.cnf
+AdabegiKop: 338
+Erabilitako denbora: 16 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf50-0999.cnf
+AdabegiKop: 264
+Erabilitako denbora: 13 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf75-0100.cnf
+AdabegiKop: 181
+Erabilitako denbora: 15 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf75-097.cnf
+AdabegiKop: 813
+Erabilitako denbora: 57 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf75-098.cnf
+AdabegiKop: 29
+Erabilitako denbora: 4 milisegundo
+SAT?: true
+_________________________________________________
+UF-BAI/uf75-099.cnf
+AdabegiKop: 202
+Erabilitako denbora: 18 milisegundo
+SAT?: true
+_________________________________________________

@@ -1,0 +1,131 @@
+UF-EZ/uuf100-01000.cnf
+AdabegiKop: 103809
+Erabilitako denbora: 5586 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf100-0997.cnf
+AdabegiKop: 88645
+Erabilitako denbora: 4723 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf100-0998.cnf
+AdabegiKop: 72518
+Erabilitako denbora: 3838 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf100-0999.cnf
+AdabegiKop: 38381
+Erabilitako denbora: 2099 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf125-0100.cnf
+AdabegiKop: 389927
+Erabilitako denbora: 26356 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf125-097.cnf
+AdabegiKop: 296154
+Erabilitako denbora: 20510 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf125-098.cnf
+AdabegiKop: 578810
+Erabilitako denbora: 38113 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf125-099.cnf
+AdabegiKop: 391057
+Erabilitako denbora: 25500 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf150-0100.cnf
+AdabegiKop: 2425330
+Erabilitako denbora: 192959 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf150-097.cnf
+AdabegiKop: 2698770
+Erabilitako denbora: 209958 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf150-098.cnf
+AdabegiKop: 1840287
+Erabilitako denbora: 149486 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf150-099.cnf
+AdabegiKop: 2791645
+Erabilitako denbora: 223268 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf175-0100.cnf
+AdabegiKop: 15392300
+Erabilitako denbora: 1459373 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf175-097.cnf
+AdabegiKop: 11514785
+Erabilitako denbora: 1123044 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf175-098.cnf
+AdabegiKop: 18751707
+Erabilitako denbora: 1789482 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf175-099.cnf
+AdabegiKop: 11277010
+Erabilitako denbora: 1051079 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf200-096.cnf
+AdabegiKop: 47823761
+Erabilitako denbora: 5321275 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf200-097.cnf
+
+EZ DU BUKATU
+
+_________________________________________________
+UF-EZ/uuf50-01000.cnf
+AdabegiKop: 1707
+Erabilitako denbora: 83 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf50-0997.cnf
+AdabegiKop: 1038
+Erabilitako denbora: 32 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf50-0998.cnf
+AdabegiKop: 1803
+Erabilitako denbora: 56 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf50-0999.cnf
+AdabegiKop: 2295
+Erabilitako denbora: 64 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf75-0100.cnf
+AdabegiKop: 12130
+Erabilitako denbora: 455 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf75-097.cnf
+AdabegiKop: 16128
+Erabilitako denbora: 587 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf75-098.cnf
+AdabegiKop: 5161
+Erabilitako denbora: 224 milisegundo
+SAT?: false
+_________________________________________________
+UF-EZ/uuf75-099.cnf
+AdabegiKop: 7735
+Erabilitako denbora: 323 milisegundo
+SAT?: false
+_________________________________________________
+

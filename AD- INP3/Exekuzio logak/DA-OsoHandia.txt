@@ -1,0 +1,34 @@
+OsoHandiak/zfrb30-15-1.cnf
+AdabegiKop: 179829
+Erabilitako denbora: 209905 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-2.cnf
+AdabegiKop: 1261820
+Erabilitako denbora: 1383690 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-3.cnf
+AdabegiKop: 236871
+Erabilitako denbora: 319793 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb30-15-4.cnf
+AdabegiKop: 334415
+Erabilitako denbora: 353943 milisegundo
+SAT?: true
+_________________________________________________
+OsoHandiak/zfrb35-17-1.cnf
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.util.HashMap.resize(Unknown Source)
+	at java.util.HashMap.putVal(Unknown Source)
+	at java.util.HashMap.put(Unknown Source)
+	at java.util.HashSet.add(Unknown Source)
+	at java.util.AbstractCollection.addAll(Unknown Source)
+	at java.util.HashSet.<init>(Unknown Source)
+	at Klausula.kopia(Klausula.java:61)
+	at SAT.literalarenBalioaFormulanJarri(SAT.java:166)
+	at SAT.hedatu(SAT.java:137)
+	at SAT.backtrack(SAT.java:108)
+	at SAT.formulaBetearazi(SAT.java:90)
+	at Frogak.main(Frogak.java:18)

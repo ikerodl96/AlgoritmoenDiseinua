@@ -1,0 +1,11 @@
+c una
+c puta
+c mierda
+c de
+c ejercicio
+p cnf 3 5
+-1 -2 0
+-1 2 0
+1 -2 0
+2 -3 0
+1 3 0
